@@ -11,7 +11,7 @@ kandidatFolder = ""
 def mapCoordinatingSchool(schoolName):
     return {
         'KOORDINERINGSSKOLE OLAV DUUN VGS' : 'OLA', 
-        'lorem' : 'ipsum'
+        'lorem' : 'ipsumm'
     }[schoolName]
 
 def kandidat(row):
