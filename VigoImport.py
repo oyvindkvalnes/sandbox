@@ -10,7 +10,7 @@ kandidatFolder = ""
 
 def mapCoordinatingSchool(schoolName):
     return {
-        'KOORDINERINGSSKOLE OLAV DUUN VGS' : 'OLA', 
+        'KOORDINERINGSSKOLE OLAV DUUN VGS' : 'OLAskolen', 
         'lorem' : 'ipsumm'
     }[schoolName]
 
