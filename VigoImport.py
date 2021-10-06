@@ -1,6 +1,8 @@
 import csv
 import os
 
+#Oyvind leker seg med nytt repository
+
 filSti = '/Users/oyvind.kvalnes/Downloads/test2.txt'
 eksportRootFolder = '/Users/oyvind.kvalnes/Downloads/VINN/'
 vedleggPath = '/Users/oyvind.kvalnes/Downloads/Vedlegg/'
