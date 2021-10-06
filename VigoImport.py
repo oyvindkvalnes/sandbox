@@ -2,6 +2,7 @@ import csv
 import os
 
 #Oyvind leker seg med nytt repository
+#jaddapadda
 
 filSti = '/Users/oyvind.kvalnes/Downloads/test2.txt'
 eksportRootFolder = '/Users/oyvind.kvalnes/Downloads/VINN/'
